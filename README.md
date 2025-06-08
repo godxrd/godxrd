@@ -79,25 +79,46 @@ I erase illusions.
 
 ## Purpose 
 This is not about open source.
+
+
 This is not about bots.
+
 This is about ego.
+
 You built a Discord bot.
+
 Then you built a cult around it.
+
 You called it a system.
+
 We call it scaffolding—barely held together.
+
 You hide behind .env files,
+
 behind third-party packages you barely understand.
+
 Your “infrastructure” is a mess of middleware,
+
 your “backend” is a collection of borrowed snippets,
+
 and your only defense is loud design and louder friends.
+
 You think uptime means quality.
+
 You think slash commands make you an engineer.
+
 We don’t hunt you because you’re good.
+
 We hunt you because you thought you were untouchable.
+
 You took pride in your bot.
+
 We took it apart.
+
 Now it’s public.
+
 Not because we needed it—
+
 but because you didn’t deserve to keep it hidden.
 
 ---

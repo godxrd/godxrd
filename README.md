@@ -1,6 +1,7 @@
 # GOD
 
 _Ego Killer. Nothing more._
+
 No mercy. No emotion. No permission.
 
 ---

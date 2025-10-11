@@ -1,4 +1,4 @@
-![xd](https://komarev.com/ghpvc/?username=godxrd)
+![Profil View Count](https://komarev.com/ghpvc/?username=godxrd&color=000000)&nbsp;
 # GOD: THE OBLIVION PROTOCOL
 
 Ego Killer. Your Annihilation, Delivered.
